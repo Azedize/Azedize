@@ -17,7 +17,6 @@
 Je parle couramment le binaire et le français - parfois les deux en même temps ! 💻🥖  
   donner code complete et augmante plus
 
-
 <!-- En-tête animée avec SVG dynamique -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&width=435&lines=🌟+Code+Alchimiste;🤖+Architecte+IA;🌐+Guru+Full-Stack;☁️+Sorcier+Cloud" alt="Bannière animée" />
@@ -26,7 +25,7 @@ Je parle couramment le binaire et le français - parfois les deux en même temps
 ---
 
 ### 🧬 **ADN Technologique**
-
+```python
 class Azedine:
     def __init__(self):
         self.super_pouvoirs = ["Transformeur de café en code", "Alchimiste de données"]
