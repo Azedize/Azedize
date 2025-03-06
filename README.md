@@ -75,6 +75,10 @@ graph TD
 |---------------|----------------------|
 | <img src="neuroforge-ui.jpg" width="400"> | <img src="cloudpulse-dash.jpg" width="400"> |
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ### 🧬 **ADN Technologique**
 ```python
 class Azedine:
