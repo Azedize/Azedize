@@ -16,3 +16,24 @@
 💡 **Le saviez-vous ?**  
 Je parle couramment le binaire et le français - parfois les deux en même temps ! 💻🥖  
   donner code complete et augmante plus
+
+
+<!-- En-tête animée avec SVG dynamique -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&width=435&lines=🌟+Code+Alchimiste;🤖+Architecte+IA;🌐+Guru+Full-Stack;☁️+Sorcier+Cloud" alt="Bannière animée" />
+</div>
+
+---
+
+### 🧬 **ADN Technologique**
+
+class Azedine:
+    def __init__(self):
+        self.super_pouvoirs = ["Transformeur de café en code", "Alchimiste de données"]
+        self.stack = {
+            "IA/ML": ["TensorFlow", "PyTorch", "OpenCV"],
+            "Web": ["React", "Next.js", "Node.js", "GraphQL"],
+            "Cloud": ["AWS", "Serverless", "Terraform"],
+            "DevOps": ["Docker", "K8s", "GitLab CI/CD"]
+        }
+        self.philosophie = "Clean Code + Scalabilité + Innovation Éthique"
