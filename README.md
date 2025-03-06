@@ -24,6 +24,57 @@ Je parle couramment le binaire et le français - parfois les deux en même temps
 
 ---
 
+
+- Fine-tuning de modèles LLM (Mistral/Mixtral) pour le français
+- Interface type JupyterLab avec collaboration en temps réel
+- Architecture MLOps avec monitoring Prometheus/Grafana
+- Stack : FastAPI + React + Redis + RabbitMQ
+
+- Dashboard unifié pour AWS/GCP/Azure
+- Détection d'anomalies avec ML temps réel
+- Alertes automatisées via Discord/Telegram
+- Tech : TypeScript + Python + WebAssembly
+
+
+- Génération contextuelle de code (Python/JS/Solidity)
+- Intégration VSCode/JetBrains
+- Analyse de code style avec AST
+- Modèle custom entraîné sur 10M+ LOC
+
+
++ Entraînement d'un modèle de vision par ordinateur sur satellite imagery
+! Développement d'un DSL pour les workflows de données
+# Recherche sur l'optimisation ONNX avec Rust
+
+
+
+achievements:
+  - "Top 1% Kaggle Competitions (Computer Vision Track)"
+  - "Optimisation x8 d'un pipeline ETL Spark"
+  - "Mentor pour 50+ développeurs via OpenClassrooms"
+  - "Speaker à Paris AI Summit 2023"
+
+- 🧪 A converti un RasPi en serveur IA portable avec cooling liquide
+- 🎸 Code en rythme avec du synthwave retro
+- 🥋 Pratique le "code-jitsu" : mix de clean code et arts martiaux
+
+
+graph TD
+    A[User] --> B(React Frontend)
+    B --> C{GraphQL Gateway}
+    C --> D[Microservice 1]
+    C --> E[Microservice 2]
+    D --> F[(Database)]
+    E --> F
+
+
+<details>
+<summary>📸 Captures d'écran</summary>
+  
+| NeuroForge UI | CloudPulse Dashboard |
+|---------------|----------------------|
+| <img src="neuroforge-ui.jpg" width="400"> | <img src="cloudpulse-dash.jpg" width="400"> |
+</details>
 ### 🧬 **ADN Technologique**
 ```python
 class Azedine:
@@ -35,4 +86,7 @@ class Azedine:
             "Cloud": ["AWS", "Serverless", "Terraform"],
             "DevOps": ["Docker", "K8s", "GitLab CI/CD"]
         }
-        self.philosophie = "Clean Code + Scalabilité + Innovation Éthique"
+        self.philosophie = "Clean Code + Scalabilité + Innovation Éthique" 
+
+
+
