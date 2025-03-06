@@ -1,3 +1,6 @@
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 🌟 **Code Alchemist & Digital Dreamweaver** 🌟
 
 - 👋 **Salut, je suis Azedine** (alias @Azedize)  
