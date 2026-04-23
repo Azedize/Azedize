@@ -1,47 +1,126 @@
-<h1 align="center">Hi 👋, I'm Azedine Chentouf</h1>
-<h3 align="center">A passionate Full stack developer from Morroco</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azedize&label=Profile%20views&color=0e75b6&style=flat" alt="azedize" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azedize" alt="azedize" /></a> </p>
-
-- 🔭 I’m currently working on [WhatsApp-Chat-Application](https://github.com/Azedize/WhatsApp-Chat-Application)
-
-- 🌱 I’m currently learning **Programming Devices**
-
-- 👯 I’m looking to collaborate on [App_Quran](https://github.com/Azedize/App_Quran)
-
-- 🤝 I’m looking for help with [Calender-App](https://github.com/Azedize/Calender-App)
-
-- 👨‍💻 All of my projects are available at [[My GitHub Profile](https://github.com/Azedize)]([My GitHub Profile](https://github.com/Azedize))
-
-- 📝 I regularly write articles on [- Medium — [azedinechentouf0](https://medium.com/@azedinechentouf0) - DEV.to — [azedine_chentouf_974b7773](https://dev.to/azedine_chentouf_974b7773)](- Medium — [azedinechentouf0](https://medium.com/@azedinechentouf0) - DEV.to — [azedine_chentouf_974b7773](https://dev.to/azedine_chentouf_974b7773))
-
-- 💬 Ask me about **- Python, JavaScript - Web development (React, Node.js) - Data analysis & AI/ML - Open source contributions**
-
-- 📫 How to reach me **azedinechentouf0@gmail.com**
-
-- 📄 Know about my experiences [https://azedize.github.io/portfolio/](https://azedize.github.io/portfolio/)
-
-- ⚡ Fun fact **- I can solve a Rubik's cube in under 2 minutes 🧩 - Coffee fuels most of my coding sessions ☕ - I love combining AI with creative projects 🤖🎨 - I once built a mini robot that follows lines 🚀**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/azedine_chentouf_974b7773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="azedine_chentouf_974b7773" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/azedine chentouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azedine chentouf" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26243454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26243454" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azedize&show_icons=true&locale=en&layout=compact" alt="azedize" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azedize&show_icons=true&locale=en" alt="azedize" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azedize&" alt="azedize" /></p>
-
+\\\
+   ___                 _ _            ____ _               _              __
+  / _ | _ __ ___   __| (_)_ __   ___/ ___| |__   ___ _ __ | |_ ___  _   _/ _|
+ / /_\\|| '_ \ _ \\ / _\ | | '_ \\ / _ \\___ \\| '_ \\ / _ \\ '_ \\| __/ _ \\| | | |  
+| |_| || |_) |_) | (_| | | | | |  __/___) | | | |  __/ | | | || (_) | |_| |  |
+ \\__,_|| .__/ .__/ \\__,_|_|_| |_|\\___|____/|_| |_|\\___|_| |_|\\__\\___/ \\__,_|  |
+       |_|   |_|                                                       
+\\\
+<div align="center">
+# 👋 Welcome to My Profile!
+### Full Stack Developer | AI Enthusiast | Automation Expert
+**Crafting intelligent solutions from Morocco 🇲🇦**
+[![GitHub followers](https://img.shields.io/github/followers/Azedize?style=social)](https://github.com/Azedize)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-azedine--chentouf-blue?style=flat&logo=linkedin)](https://linkedin.com/in/azedine-chentouf)
+[![Email](https://img.shields.io/badge/Email-azedinechentouf0@gmail.com-red?style=flat&logo=gmail)](mailto:azedinechentouf0@gmail.com)
+</div>
+---
+## 🚀 About Me
+I'm an **Advanced Full Stack Developer** passionate about building intelligent automation systems and AI-driven applications. I specialize in **Python development**, **web automation**, and **AI integration**. With a continuous learning mindset, I explore cutting-edge technologies to solve real-world problems.
+- 🎓 **Experience Level:** Advanced
+- 📍 **Location:** Maroc (Morocco)
+- 💡 **Passion:** AI Agents, Automation, and Scalable Software
+- ⚡ **Current Focus:** Building AI-powered automation agents and full-stack applications
+---
+## 🛠️ Tech Stack
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+### Databases & Data
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6B6B?style=for-the-badge)
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1AA260?style=for-the-badge)
+### Specialized Skills
+- 🤖 **AI Agents & Integration**
+- 🔄 **Web Automation & Scraping**
+- 🧵 **Multithreading & Async Programming**
+- 🔐 **Proxy Management & Session Handling**
+- 📊 **Data Processing & Analysis**
+- 🌐 **Full-Stack Development**
+---
+## 📂 Featured Projects
+### 🤖 Gmail Automation Agent
+**AI-Powered Email Automation System**
+- Automated multi-account Gmail login using proxy rotation
+- Intelligent email filtering, reading, and response system
+- Proxy management & session persistence
+- Built with Python + OpenAI API
+- **Impact:** 10x faster email processing
+### 📧 Email Extraction Tool
+**PyQt5 Desktop Application**
+- Automated browser sessions for email data extraction
+- Multithreading for parallel processing
+- Advanced logging & error handling
+- Real-time progress tracking UI
+- **Tech Stack:** PyQt5, Selenium, Multithreading
+### 🚗 Vehicle Rental Management System
+**Full-Stack Web Application**
+- MongoDB database for complex data relationships
+- Reservation, vehicle, insurance, and customer management
+- Dynamic UI with real-time updates
+- RESTful API backend
+- **Tech Stack:** Python, MongoDB, REST APIs, Full-Stack Architecture
+---
+## 📊 GitHub Stats
+<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azedize&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azedize&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azedize&theme=tokyonight&hide_border=true)
+</div>
+---
+## 🎯 Current Goals
+- ✨ **Mastering AI & Machine Learning:** Deepen expertise in AI agents, LLM integration, and prompt engineering
+- 🏗️ **Building Scalable Systems:** Develop enterprise-grade automation solutions
+- 🔬 **AI Agent Development:** Create intelligent agents for real-world applications
+- 📚 **Continuous Learning:** Daily skill enhancement through hands-on projects
+- 🌟 **Open Source Contribution:** Share knowledge and build with the community
+---
+## 💻 What I'm Working On
+Currently developing:
+- 🤖 Advanced AI agents for business automation
+- 🔄 Intelligent web scraping & data extraction pipelines
+- 🎯 Full-stack applications with AI integration
+- 📊 Data analysis and processing tools
+---
+## 🌟 Core Competencies
+| Competency | Level | Experience |
+|-----------|-------|------------|
+| Python Development | ⭐⭐⭐⭐⭐ | Advanced |
+| AI & Automation | ⭐⭐⭐⭐⭐ | Advanced |
+| Web Automation (Selenium/Playwright) | ⭐⭐⭐⭐⭐ | Advanced |
+| Full-Stack Development | ⭐⭐⭐⭐ | Advanced |
+| Database Design (MongoDB/MySQL) | ⭐⭐⭐⭐ | Intermediate-Advanced |
+| REST API Development | ⭐⭐⭐⭐ | Advanced |
+| UI/UX (PyQt5) | ⭐⭐⭐ | Intermediate |
+---
+## 📫 Let's Connect!
+<div align="center">
+[![Email](https://img.shields.io/badge/Email-azedinechentouf0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azedinechentouf0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-azedine--chentouf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azedine-chentouf)
+[![GitHub](https://img.shields.io/badge/GitHub-Azedize-181717?style=for-the-badge&logo=github)](https://github.com/Azedize)
+</div>
+---
+## 🤝 Open To
+- 💼 **Remote Opportunities** in AI, Automation, or Full-Stack Development
+- 🤝 **Collaborations** on interesting projects
+- 📚 **Mentoring** aspiring developers
+- 💬 **Discussions** about AI, Python, and automation best practices
+---
+<div align="center">
+### 💡 *"Every day is an opportunity to build something amazing and learn something new."*
+---
+**⭐ If you find my work interesting, feel free to star my repositories!**
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Azedize.Azedize)
+</div>
